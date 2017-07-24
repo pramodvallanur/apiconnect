@@ -11,8 +11,8 @@ lastupdated: "2017-07-13"
 {:pre: .pre}
 
 # Import your API spec and proxy an existing REST service with IBM Bluemix
-Duration: 5 mins  
-Skill level: Beginner  
+**Duration**: 5 mins  
+**Skill level**: Beginner  
 
 ## Objective
 This tutorial helps you get started quickly with {{site.data.keyword.apiconnect_full}} by illustrating how you can bring your existing API under management control. We'll start by importing an OpenAPI spec, and then create a passthrough API proxy for an existing REST service.
